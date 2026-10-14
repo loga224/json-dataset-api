@@ -1,0 +1,5 @@
+com\freightfox\dataset\entity\DatasetRecord.class
+com\freightfox\dataset\JsonDatasetApiApplication.class
+com\freightfox\dataset\controller\DatasetRecordController.class
+com\freightfox\dataset\repository\DatasetRecordRepository.class
+com\freightfox\dataset\service\DatasetRecordService.class
